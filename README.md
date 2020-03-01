@@ -16,3 +16,9 @@ npm install --save-dev nodemon
 #### `node app.js`
 
 #### `http://localhost:3000/api`
+
+GET REQUEST
+http://localhost:3000/api/login
+
+POST REQUEST
+http://localhost:3000/api/posts
